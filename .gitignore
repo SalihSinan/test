@@ -1,0 +1,9 @@
+# Fichiers générés
+bin/
+*.class
+
+# Logs
+*.log
+
+# Eclipse workspace (jamais versionner)
+.metadata/
